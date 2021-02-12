@@ -7,3 +7,4 @@ scalaVersion := "2.13.4"
 idePackagePrefix := Some("com.psl.scalarnd")
 
 libraryDependencies += "org.mongodb.scala" %% "mongo-scala-driver" % "4.1.1"
+idePackagePrefix := Some("com.scala.rnd")

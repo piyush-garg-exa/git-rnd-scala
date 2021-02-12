@@ -2,7 +2,7 @@
 
 object Main {
   def main(arrs: Array[String]){
-    println("main object");
+    println("main object ");
     test();
   }
   
