@@ -1,4 +1,4 @@
-name := "ScalaPrjI"
+name := "git-rnd-scala"
 
 version := "0.1"
 
